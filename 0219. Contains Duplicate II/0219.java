@@ -1,5 +1,5 @@
 // time complexity O(n)
-// space complexity O(1)
+// space complexity O(n)
 
 class Solution {
     public boolean containsNearbyDuplicate(int[] nums, int k) {
