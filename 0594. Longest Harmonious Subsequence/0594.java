@@ -1,5 +1,5 @@
-// time Complexity: O(n)
-// space Complexity: O(n)
+// time complexity: O(n)
+// space complexity: O(n)
 public class Solution {
     public int findLHS(int[] nums) {
         // create a HashMap to count frequency of each number
