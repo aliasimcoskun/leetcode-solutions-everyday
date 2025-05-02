@@ -1,3 +1,9 @@
+# time complexity: O(L + W·M)
+#       where:
+#           - L = length of licensePlate (to build lp_count)
+#           - W = number of words
+#           - M = max word length
+# space complexity: O(1) (at most 26 characters)
 class Solution(object):
     def shortestCompletingWord(self, licensePlate, words):
         """
